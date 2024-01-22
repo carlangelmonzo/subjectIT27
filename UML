@@ -1,0 +1,14 @@
+Activity No. 1: Describe the UML Case Diagram of an ATM System.
+yung costumer sha yung magpupunta sa banko where in he/she can ether check the balance widraw or diposit
+yung technician mapaprocess ang technician ang magcheck kung ano ang pina proses ng costumer
+* Customer (actor) uses bank ATM to Check Balances of his/her bank accounts, Deposit Funds, Withdraw Cash and/or Transfer Funds (use cases). 
+* ATM Technician provides Maintenance and Repairs. 
+* All these use cases also involve Bank actor whether it is related to customer transactions or to the ATM servicing.
+Activity No. 2: Describe the UML State Diagram of an Airport Passenger.
+This is an example of a business use case diagram which is usually created during Business Modeling and is rendered here in Rational Unified Process (RUP) notation.
+Business actors are Passenger, Tour Guide, Minor (Child), Passenger with Special Needs (e.g. with disabilities), all playing external roles in relation to airport business.
+Business use cases are Individual Check-In, Group Check-In (for groups of tourists), Security Screening, etc. - representing business functions or processes taking place in airport and serving the needs of passengers.
+Business use cases Baggage Check-in and Baggage Handling extend Check-In use cases, because passenger might have no luggage, so baggage check-in and handling are optional.
+Activity No. 3: Describe the UML Sequence Diagram of Online Shopping.
+Purpose: Provide top level use cases for a web customer making purchases online.
+Summary: Web customer actor uses some web site to make purchases online. Top level use cases are View Items, Make Purchase and Client Register.
